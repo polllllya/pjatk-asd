@@ -1,0 +1,4 @@
+ASD –zadanie programistyczne 3
+#
+Dany jest ciąg liczb naturalnych, a także wskaźnik P, który początkowo wskazuje na pierwszy element w ciągu. 
+Dla tego ciągu zdefiniowane są dwie operacje: ADD –dodanie elementu o wartości X-1 na pozycję P+1, a następnie przesunięcie wskaźnika P o X elementów w prawo, gdzie X jest wartością elementu znajdującego się na pozycji P. DELETE –usunięcie elementu znajdującego się na pozycji P+1, a następnie przesunięcie wskaźnika P o X elementów w prawo, gdzie X jest wartością usuniętego elementu.Gdy wskaźnikP wskazuje na element nieparzysty wykonywana jest operacja ADD, w przeciwnym wypadku wykonywana jest operacja DELETE.   Przesuwanie wskaźnika P w prawo odbywa się w sposób cykliczny, czyli elementem następnym po elemencie ostatnim jest element pierwszy. Wyznacz ciąg liczb naturalnych powstały po wykonaniu k operacji na ciągu wejściowym.   
